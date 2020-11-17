@@ -17,7 +17,7 @@ KTPageContentCollectionView（内部由 UICollectionView 实现）
 
 
 ## 效果图
-![](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.gif)
+![image](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.png)
 
 
 ## <a id="安装"></a> 二.  安装 - Installation
