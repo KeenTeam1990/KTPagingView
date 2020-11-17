@@ -17,14 +17,16 @@ Pod::Spec.new do |spec|
 
   spec.name         = "KTPagingView"
   spec.version      = "1.0.0"
-  spec.summary      = "KTPagingView."
+  spec.summary      = "use meun in swift"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "KTPagingView."
+  spec.description  = <<-DESC
+                      HELLO
+                      DESC
 
   spec.homepage     = "https://github.com/KeenTeam1990/KTPagingView"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -51,9 +53,9 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "kt" => "Keen_Team@163.com" }
-  # Or just: spec.author    = "kt"
-  # spec.authors            = { "kt" => "Keen_Team@163.com" }
+  spec.author             = { "zzq" => "Keen_Team@163.com" }
+  # Or just: spec.author    = "zzq"
+  # spec.authors            = { "zzq" => "Keen_Team@163.com" }
 
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
