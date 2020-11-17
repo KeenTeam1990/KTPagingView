@@ -3,7 +3,7 @@
 #### [Swift Version](https://github.com/KeenTeam1990/KTPagingView)
 
 
-## 结构图
+## <a id="配置"></a> 一. 结构图   
 ![](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.png)
 ``` 
 KTPageTitleViewConfigure（KTPageTitleView 初始化配置信息）
@@ -59,7 +59,7 @@ func pageContentScrollView(pageContentScrollView: KTPageContentScrollView, progr
 }
 ```
 
-## <a id="更多"></a> 六.  更多 - More
+## <a id="更多"></a> 四.  更多 - More
 
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 
