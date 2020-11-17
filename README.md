@@ -4,7 +4,7 @@
 
 
 ## <a id="配置"></a> 一. 结构图   
-![](https://github.com/KeenTeam1990/KTPagingView/KTPagingView.png)
+![image](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.png)
 ``` 
 KTPageTitleViewConfigure（KTPageTitleView 初始化配置信息）
 
