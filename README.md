@@ -4,7 +4,7 @@
 
 
 ## 结构图
-![](https://github.com/KeenTeam1990/blob/master/KTPagingView/KTPagingView.png)
+![](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.png)
 ``` 
 KTPageTitleViewConfigure（KTPageTitleView 初始化配置信息）
 
@@ -17,11 +17,17 @@ KTPageContentCollectionView（内部由 UICollectionView 实现）
 
 
 ## 效果图
-![](https://github.com/KeenTeam1990/blob/master/KTPagingView/KTPagingView.gif)
+![](https://github.com/KeenTeam1990/KTPagingView/blob/master/KTPagingView.gif)
 
 
-##  Installation
-* 下载、拖拽 “KTPagingView-Swift” 文件夹到工程中
+## <a id="安装"></a> 二.  安装 - Installation
+
+- Cocoapods：```pod 'KTPagingView', '~> 1.0.0'```搜索不到库或最新版请执行```pod repo update```
+- 手动导入：将项目中的“KTPagingView”文件夹拖入项目中
+
+## <a id="要求"></a> 三.  要求 - Requirements
+
+- iOS8及以上系统可使用. ARC环境. - iOS 8 or later. Requires ARC
 
 
 ## 代码介绍
@@ -53,6 +59,15 @@ func pageContentScrollView(pageContentScrollView: KTPageContentScrollView, progr
 }
 ```
 
+## <a id="更多"></a> 六.  更多 - More
 
+- 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
+
+- 如果您有什么好的建议也可以提issue,大家一起讨论一起学习进步...
+
+- 具体代码请下载项目  如果觉得喜欢的能给一颗小星星么!  ✨✨✨
+
+- [有兴趣可以加下创建的QQ群:812144991(因为工作很忙所以可能问问题没人回答!!)](//shang.qq.com/wpa/qunwpa?idkey=ebd8d6809c83b4d6b4a18b688621cb73ded0cce092b4d1f734e071a58dd37c26) <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=294005139&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:294005139:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+- The MIT License (MIT)                  Copyright (c) 2018 KEENTEAM
 
 
