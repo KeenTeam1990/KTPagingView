@@ -3,8 +3,10 @@
 #### [Swift Version](https://github.com/KeenTeam1990/KTPagingView)
 
 
-## <a id="配置"></a> 一. 结构图   
+## <a id="配置"></a> 一. 结构图  
+
 <img src="http://qjyvam1s5.hd-bkt.clouddn.com/KTPagingView.png" width="270" height="480">
+
 ``` 
 KTPageTitleViewConfigure（KTPageTitleView 初始化配置信息）
 
