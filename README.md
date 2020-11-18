@@ -4,7 +4,7 @@
 
 
 ## <a id="配置"></a> 一. 结构图   
-![image](http://qjyvam1s5.hd-bkt.clouddn.com/appicon.png)
+![image](http://qjyvam1s5.hd-bkt.clouddn.com/KTPagingView.png)
 ``` 
 KTPageTitleViewConfigure（KTPageTitleView 初始化配置信息）
 
