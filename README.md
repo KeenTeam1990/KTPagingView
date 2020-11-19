@@ -30,7 +30,7 @@ KTPageContentCollectionView（内部由 UICollectionView 实现）
 
 ## <a id="要求"></a> 三.  要求 - Requirements
 
-- iOS8及以上系统可使用. ARC环境. - iOS 8 or later. Requires ARC
+- iOS10及以上系统可使用. ARC环境. - iOS 10 or later. Requires ARC
 
 
 ## 代码介绍
