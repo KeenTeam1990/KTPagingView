@@ -32,8 +32,8 @@ KTPageContentCollectionView（内部由 UICollectionView 实现）
 
 - iOS10及以上系统可使用. ARC环境. - iOS 10 or later. Requires ARC
 
+## <a id="代码介绍"></a> 四.  要求 - code
 
-## 代码介绍
 ##### KTPagingView 的使用（详细使用, 请参考 Demo）
 ```
 // KTPageTitleViewConfigure
@@ -62,7 +62,7 @@ func pageContentScrollView(pageContentScrollView: KTPageContentScrollView, progr
 }
 ```
 
-## <a id="更多"></a> 四.  更多 - More
+## <a id="更多"></a> 五.  更多 - More
 
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 
