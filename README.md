@@ -48,21 +48,20 @@ pageContentScrollView?.delegateScrollView = self
 view.addSubview(pageContentScrollView!)
 ```
 
-##### KTPageTitleView 代理方法
+## <a id="KTPageTitleView 代理方法"></a> 五.  KTPageTitleView - code
 ```
 func pageTitleView(pageTitleView: KTPageTitleView, index: Int) {
     pageContentScrollView?.setPageContentScrollView(index: index)
 }
 ```
-
-##### KTPageContentScrollView 代理方法
+## <a id="KTPageContentScrollView 代理方法"></a> 六.  KTPageContentScrollView - code
 ```
 func pageContentScrollView(pageContentScrollView: KTPageContentScrollView, progress: CGFloat, originalIndex: Int, targetIndex: Int) {
     pageTitleView?.setPageTitleView(progress: progress, originalIndex: originalIndex, targetIndex: targetIndex)
 }
 ```
 
-## <a id="更多"></a> 五.  更多 - More
+## <a id="更多"></a> 七.  更多 - More
 
 - 如果您发现了bug请尽可能详细地描述系统版本、手机型号和复现步骤等信息 提一个issue.
 
