@@ -17,7 +17,6 @@ KTPageContentScrollView（内部由 UIScrollView 实现）
 KTPageContentCollectionView（内部由 UICollectionView 实现）
 ``` 
 
-
 ## 效果图
 
 <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.09.43.png" width="270" height="480"> <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.10.05.png" width="270" height="480"> <img src="http://qjyvam1s5.hd-bkt.clouddn.com/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202020-11-18%20at%2009.09.51.png" width="270" height="480">
